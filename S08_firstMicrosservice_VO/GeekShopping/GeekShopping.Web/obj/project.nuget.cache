@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kNTo3YBRJJSxXlvlFL9SAQscDTYUBN/C8j6oFCowskjLXD62FpAU728SXMnzhg2CWLw9eNaOVo/Ukp+5kGqBxg==",
+  "dgSpecHash": "f31cVFvzG3MHSZdDVLWNSUK7nN+P3xOjrz+EumrKBYU6bZiwFjux7lws/vA2aXSvLfQNI3k64nqRymAF3ugKrQ==",
   "success": true,
-  "projectFilePath": "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S05_firstMicrosservice\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+  "projectFilePath": "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S08_firstMicrosservice_VO\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

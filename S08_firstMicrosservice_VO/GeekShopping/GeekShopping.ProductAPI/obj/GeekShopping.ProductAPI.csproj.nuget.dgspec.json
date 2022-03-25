@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S05_firstMicrosservice\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {}
+    "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S08_firstMicrosservice_VO\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {}
   },
   "projects": {
-    "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S05_firstMicrosservice\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {
+    "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S08_firstMicrosservice_VO\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S05_firstMicrosservice\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+        "projectUniqueName": "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S08_firstMicrosservice_VO\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
         "projectName": "GeekShopping.ProductAPI",
-        "projectPath": "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S05_firstMicrosservice\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
+        "projectPath": "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S08_firstMicrosservice_VO\\GeekShopping\\GeekShopping.ProductAPI\\GeekShopping.ProductAPI.csproj",
         "packagesPath": "C:\\Users\\A45A\\.nuget\\packages\\",
-        "outputPath": "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S05_firstMicrosservice\\GeekShopping\\GeekShopping.ProductAPI\\obj\\",
+        "outputPath": "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S08_firstMicrosservice_VO\\GeekShopping\\GeekShopping.ProductAPI\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

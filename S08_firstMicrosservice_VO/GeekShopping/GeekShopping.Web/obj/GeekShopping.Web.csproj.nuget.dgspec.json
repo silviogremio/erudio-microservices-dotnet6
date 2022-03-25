@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S05_firstMicrosservice\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj": {}
+    "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S08_firstMicrosservice_VO\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj": {}
   },
   "projects": {
-    "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S05_firstMicrosservice\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj": {
+    "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S08_firstMicrosservice_VO\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S05_firstMicrosservice\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+        "projectUniqueName": "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S08_firstMicrosservice_VO\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
         "projectName": "GeekShopping.Web",
-        "projectPath": "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S05_firstMicrosservice\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
+        "projectPath": "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S08_firstMicrosservice_VO\\GeekShopping\\GeekShopping.Web\\GeekShopping.Web.csproj",
         "packagesPath": "C:\\Users\\A45A\\.nuget\\packages\\",
-        "outputPath": "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S05_firstMicrosservice\\GeekShopping\\GeekShopping.Web\\obj\\",
+        "outputPath": "D:\\Silvio\\git_repositorios\\erudio-microservices-dotnet6\\S08_firstMicrosservice_VO\\GeekShopping\\GeekShopping.Web\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
